@@ -23,4 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmitchell1234&show_icons=true&locale=en" alt="jonathanmitchell1234" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanMitchell1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanmitchell1234&" alt="jonathanmitchell1234" /></p>
