@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **jonmitchell1234@gmail.com**
 
-- ⚡ Fun fact: **I have two cats, they're awesome**
+- ⚡ Fun fact: **I have worked for Non-Profit Organizations in both Direct Services && as a Web Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
