@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **a Bachelor of Science in Software Engineering**
 
-- 🌱 I’m currently learning: **C# and .Net**
+- 🌱 I’m currently learning: **C# and .Net + ITIL Foundation && AWS Certified Cloud Practioner**
 
 - 👨‍💻 All of my projects are available at: [www.jonathanmitchell.xyz](www.jonathanmitchell.xyz)
 
