@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [www.jonathanmitchell.xyz](www.jonathanmitchell.xyz)
 
-- 💬 Ask me about: **React, JavaScript**
+- 💬 Ask me about: **React, JavaScript, SEO**
 
 - 📫 How to reach me: **jonmitchell1234@gmail.com**
 
