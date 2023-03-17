@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jonathan Mitchell</h1>
 <h3 align="center">A Software Developer from Cincinnati</h3>
 
-- 🔭 I’m currently working on **a Bachelor of Science in Software Engineering**
+- 🔭 I’m currently working on: **a Bachelor of Science in Software Engineering**
 
-- 🌱 I’m currently learning **C# and .Net**
+- 🌱 I’m currently learning: **C# and .Net**
 
-- 👨‍💻 All of my projects are available at [www.jonathanmitchell.xyz](www.jonathanmitchell.xyz)
+- 👨‍💻 All of my projects are available at: [www.jonathanmitchell.xyz](www.jonathanmitchell.xyz)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about: **React, JavaScript**
 
-- 📫 How to reach me **jonmitchell1234@gmail.com**
+- 📫 How to reach me: **jonmitchell1234@gmail.com**
 
-- ⚡ Fun fact **I have two cats, they're awesome**
+- ⚡ Fun fact: **I have two cats, they're awesome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
