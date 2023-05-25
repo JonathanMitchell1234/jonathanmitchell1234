@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [www.jonathanmitchell.xyz](www.jonathanmitchell.xyz)
 
-- 💬 Ask me about: **Front End Development, React, JavaScript, SEO**
+- 💬 Ask me about: **Front End Development, React, JavaScript, Java, SQL**
 
 - 📫 How to reach me: **jonmitchell1234@gmail.com**
 
