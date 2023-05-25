@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **a GPT based app and a Bachelor of Science in Software Engineering**
 
-- 🌱 I’m currently learning: **C# and .Net + ITIL Foundation && AWS Certified Cloud Practioner**
+- 🌱 I’m currently learning: **Java and Spring Boot + ITIL Foundation && AWS Certified Cloud Practioner**
 
 - 👨‍💻 All of my projects are available at: [www.jonathanmitchell.xyz](www.jonathanmitchell.xyz)
 
