@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Jonathan Mitchell</h1>
 <h3 align="left">A Software Engineer from Cincinnati</h3>
 
-- 🔭 I’m currently working on: **a GPT based app and my junior year of a Bachelor of Science in Software Engineering**
+- 🔭 I’m currently working on: **a GPT based web app and my junior year of a Bachelor of Science in Software Engineering**
 
-- 🌱 I’m currently learning: **Java and Spring Boot + ITIL Foundation && AWS Certified Cloud Practioner**
+- 🌱 I’m currently learning: **Java, Spring Boot, Advanced SQL**
 
-- 👨‍💻 All of my projects are available at: [www.jonathanmitchell.xyz](www.jonathanmitchell.xyz)
+- 👨‍💻 Most of my projects are available at: [www.jonathanmitchell.tech](www.jonathanmitchell.tech)
 
 - 💬 Ask me about: **Front End Development, React, JavaScript, Java, SQL**
 
