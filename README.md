@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Java, Spring Boot, Advanced SQL**
 
-- 👨‍💻 Most of my projects are available at: [www.jonathanmitchell.tech](www.jonathanmitchell.tech)
+- 👨‍💻 Most of my projects are available at: [www.jonathanmitchell.tech](https://www.jonathanmitchell.tech)
 
 - 💬 Ask me about: **Front End Development, React, JavaScript, Java, SQL**
 
