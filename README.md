@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **a GPT based web app and my junior year of a Bachelor of Science in Software Engineering**
 
-- 🌱 I’m currently learning: **Java, Spring Boot, Advanced SQL**
+- 🌱 I’m currently learning: **Java, Spring, Advanced SQL**
 
 - 👨‍💻 Most of my projects are available at: [www.jonathanmitchell.tech](https://www.jonathanmitchell.tech)
 
