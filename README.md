@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jonathan Mitchell</h1>
 <h3 align="left">A Software Engineer from Cincinnati</h3>
 
-- 🔭 I’m currently working on: *My senior year of a Bachelor of Science in Software Engineering*
+- 🔭 I’m currently working on: **My senior year of a Bachelor of Science in Software Engineering**
 
 - 🌱 I’m currently learning: **Java, Spring, Advanced SQL**
 
